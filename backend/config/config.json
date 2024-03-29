@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "password",
+    "database": "example_db_skinx",
+    "host": "localhost",
+    "port": "6543",
+    "dialect": "postgres"
+  }
+}
